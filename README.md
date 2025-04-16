@@ -4,7 +4,7 @@ RCtrl: EMERGENCY EXIT HOTKEY
 LShift: TOGGLE SPRINT
 
 Why do i use exe? Does not require to download ahk, just click and play
-If u need to edit the script and turn it into a exe file, download Ahk2Exe in AHK app Dashboard 
+-> If u need to edit the script and turn it into a exe file, download Ahk2Exe in AHK app Dashboard 
 
 Final note: Do not use this in MP games that have Anti Cheat
--> this script will not get u ban, however the Anti Cheat will intefere with the script therefore stop working eventhough AHK is still running in the background
+-> This script will not get u banned, however the Anti Cheat will interfere with the script therefore stop working eventhough AHK is still running in the background
