@@ -1,6 +1,6 @@
 ﻿; ─── CONFIG ───────────────────────────────────────────────────────────────────
 
-global SprintModifier := "/"   ; ← your hold to sprint key: "Ctrl", "Space", "LAlt", etc.
+global SprintModifier := "LAlt"   ; ← your hold to sprint key: "Ctrl", "Space", "LAlt", etc.
 global ScriptActive   := true
 global ShiftHeld      := true
 
