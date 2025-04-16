@@ -7,7 +7,7 @@ global ShiftHeld      := true
 
 ; ─── EMERGENCY EXIT HOTKEY ─────────────────────────────────────────────────────
 
-RCtrl::ExitApp() ; ← change to whatever key u like , this exists to prevent any weird bugs that u can encounter while playing
+RCtrl::ExitApp() ; ← change to whatever key u like , this exists to prevent any possible bugs that u can encounter while playing
 
 
 ; ─── GUI ─────────────────────────────────────────────────────────────────────
@@ -17,7 +17,7 @@ MyGui.Add("Text",, "Auto Sprint now running")
 MyGui.Add("Button",, "Exit Program").OnEvent("Click", (*) => ExitApp())
 MyGui.Show()
 
-; Always stop the script after playing 
+; Always exit the program after playing 
 
 
 ; ─── TOGGLE SPRINT ────────────────────────────────────────────────────────────
